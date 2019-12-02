@@ -1,0 +1,11 @@
+[submodule "3rdparty/grpc"]
+	path = 3rdparty/grpc
+	url = https://github.com/grpc/grpc
+
+[submodule "3rdparty/boost"]
+	path = 3rdparty/boost
+	url = https://github.com/boostorg/boost
+
+[submodule "3rdparty/opencv"]
+	path = 3rdparty/opencv
+	url = https://github.com/opencv/opencv
