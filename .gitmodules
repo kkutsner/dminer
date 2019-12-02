@@ -9,3 +9,6 @@
 [submodule "3rdparty/opencv"]
 	path = 3rdparty/opencv
 	url = https://github.com/opencv/opencv
+[submodule "3rdparty/openssl"]
+	path = 3rdparty/openssl
+	url = https://github.com/openssl/openssl
